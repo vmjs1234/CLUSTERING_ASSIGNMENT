@@ -11,3 +11,7 @@
 [Gaussian Mixture Model Cluster Colab Link](https://colab.research.google.com/drive/1CCtNGeRvt6Vhgr5xTuGOlYBBJqnpp1Cq?usp=sharing)
 
 [video demo](https://drive.google.com/file/d/1kl1xddu6w-s54JkB6E96Ot6Mrw5xh0Ff/view?usp=sharing)
+
+[Anomaly in data](https://colab.research.google.com/drive/1IxRL216Xld0pG4PNi60V2A7SgRjN9-b9?usp=sharing)
+
+[video demo](https://drive.google.com/file/d/)
