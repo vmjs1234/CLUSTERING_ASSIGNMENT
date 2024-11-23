@@ -8,5 +8,6 @@
 
 [video demo](https://drive.google.com/file/d/1ujqIo8XaIfTXF5D_2seFKTt-whympwQk/view?usp=sharing)
 
+[Gaussian Mixture Model Cluster Colab Link](https://colab.research.google.com/drive/1CCtNGeRvt6Vhgr5xTuGOlYBBJqnpp1Cq?usp=sharing)
 
-
+[video demo]()
