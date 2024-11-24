@@ -27,4 +27,4 @@
 [video demo](https://drive.google.com/file/d/1JQMZWzL8p-24aqDfZl6dbuaYW7s-7pIn/view?usp=sharing)
 
 [Image clustering using LLM](https://colab.research.google.com/drive/1mWETagEgA9oWALmdeHUsMvHUNc0O8KOF?usp=sharing)
-[Video demo]()
+[Video demo](https://drive.google.com/file/d/13cRA0kFTn3FiPKmSvlwHGLjOx6k7ZGT0/view?usp=sharing)
