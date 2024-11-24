@@ -29,5 +29,5 @@
 7)[Image clustering using LLM](https://colab.research.google.com/drive/1mWETagEgA9oWALmdeHUsMvHUNc0O8KOF?usp=sharing)
 [Video demo](https://drive.google.com/file/d/13cRA0kFTn3FiPKmSvlwHGLjOx6k7ZGT0/view?usp=sharing)
 
-8) [Audio clustering](https://colab.research.google.com/drive/1juIDjIl2p6yUPE3xhMULjdbm191HzC4-?usp=sharing)
+8)[Audio clustering](https://colab.research.google.com/drive/1juIDjIl2p6yUPE3xhMULjdbm191HzC4-?usp=sharing)
 [Video demo](https://drive.google.com/file/d/1ONoQbXNGJ7C5BOGMTjP0DsNSrbRHm2xe/view?usp=sharing)
