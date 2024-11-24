@@ -12,24 +12,27 @@
 
 [video demo](https://drive.google.com/file/d/1kl1xddu6w-s54JkB6E96Ot6Mrw5xh0Ff/view?usp=sharing)
 
-4)[Anomaly in data](https://colab.research.google.com/drive/1IxRL216Xld0pG4PNi60V2A7SgRjN9-b9?usp=sharing)
+4) [DB Scan clustering](https://colab.research.google.com/drive/1EPbSjUy152ejU8nXhdQzhfQRou0qKssH?usp=sharing)
+[video demo](https://drive.google.com/file/d/1VbuCLlErnn4eHWJ64EDp01UAi2gzAoR5/view?usp=sharing)
+
+5)[Anomaly in data](https://colab.research.google.com/drive/1IxRL216Xld0pG4PNi60V2A7SgRjN9-b9?usp=sharing)
 
 [video demo](https://drive.google.com/file/d/1EyzAZjuxMCw96xJJBaf502JrMHWnob5Y/view?usp=sharing)
 
 
-5)[Time-Series-Data-Clustering](https://colab.research.google.com/drive/1f8gJ-yDAd6-cfMil0mFkbYSc0UiXxGsJ?usp=sharing)
+6)[Time-Series-Data-Clustering](https://colab.research.google.com/drive/1f8gJ-yDAd6-cfMil0mFkbYSc0UiXxGsJ?usp=sharing)
 
 [video demo](https://drive.google.com/file/d/1dXYCvpDZxmKk9RcmQYk457iAolB6G0zD/view?usp=sharing)
 
 
-6)[clustering-doc-llm](https://colab.research.google.com/drive/1VK0-k7SALh9LWXImfAsy9nP8JNnV0UtR?usp=sharing)
+7)[clustering-doc-llm](https://colab.research.google.com/drive/1VK0-k7SALh9LWXImfAsy9nP8JNnV0UtR?usp=sharing)
 
 [video demo](https://drive.google.com/file/d/1JQMZWzL8p-24aqDfZl6dbuaYW7s-7pIn/view?usp=sharing)
 
-7)[Image clustering using LLM](https://colab.research.google.com/drive/1mWETagEgA9oWALmdeHUsMvHUNc0O8KOF?usp=sharing)
+8)[Image clustering using LLM](https://colab.research.google.com/drive/1mWETagEgA9oWALmdeHUsMvHUNc0O8KOF?usp=sharing)
 
 [Video demo](https://drive.google.com/file/d/13cRA0kFTn3FiPKmSvlwHGLjOx6k7ZGT0/view?usp=sharing)
 
-8)[Audio clustering](https://colab.research.google.com/drive/1juIDjIl2p6yUPE3xhMULjdbm191HzC4-?usp=sharing)
+9)[Audio clustering](https://colab.research.google.com/drive/1juIDjIl2p6yUPE3xhMULjdbm191HzC4-?usp=sharing)
 
 [Video demo](https://drive.google.com/file/d/1ONoQbXNGJ7C5BOGMTjP0DsNSrbRHm2xe/view?usp=sharing)
