@@ -12,7 +12,7 @@
 
 [video demo](https://drive.google.com/file/d/1kl1xddu6w-s54JkB6E96Ot6Mrw5xh0Ff/view?usp=sharing)
 
-4) [DB Scan clustering](https://colab.research.google.com/drive/1EPbSjUy152ejU8nXhdQzhfQRou0qKssH?usp=sharing)
+4)[DB Scan clustering](https://colab.research.google.com/drive/1EPbSjUy152ejU8nXhdQzhfQRou0qKssH?usp=sharing)
 [video demo](https://drive.google.com/file/d/1VbuCLlErnn4eHWJ64EDp01UAi2gzAoR5/view?usp=sharing)
 
 5)[Anomaly in data](https://colab.research.google.com/drive/1IxRL216Xld0pG4PNi60V2A7SgRjN9-b9?usp=sharing)
